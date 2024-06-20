@@ -1,0 +1,7 @@
+Converta, para a linguagem do MIPS, o seguinte código-fonte escrito em C.
+
+int main() {
+	int i, j, f, g, h;
+	if( i == j ) f = g + h; //resposta verdadeira
+	else f = g - h; //resposta falsa
+}

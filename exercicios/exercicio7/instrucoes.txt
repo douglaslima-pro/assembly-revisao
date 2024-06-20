@@ -1,0 +1,2 @@
+Escreva o código-fonte de um programa em C para determinar o valor dos 15 primeiros termos da
+sequência 1² + 2² + 3² + ... . A seguir, traduza o código-fonte escrito para a linguagem MIPS.

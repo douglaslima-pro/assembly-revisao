@@ -1,0 +1,12 @@
+Converta, para a linguagem do MIPS, o seguinte código-fonte escrito em C.
+
+int main() {
+	int a = 10, b = 20, c = 15;
+	if ( a < b ) {
+		c = a * b;
+		a = b - c;
+	} else {
+		b = a * c;
+		c = b - c;
+	}
+}
